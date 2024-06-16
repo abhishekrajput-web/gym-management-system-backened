@@ -1,6 +1,6 @@
 # GYM MANAGEMENT SYSTEM (MERN STACK)
 <h1 style="font-size:20px">Responsive gym app using mern stack</h1>
-<p><a href="https://superb-custard-015fa5.netlify.app/">View The Live Website Deployment </a></p>
+<p><a href="https://gym-management-system7.netlify.app/">View The Live Website Deployment </a></p>
 
 <h2 style="font-size:20px">Technology used to make this website</h2>
 
